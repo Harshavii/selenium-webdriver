@@ -35,7 +35,3 @@ driver.find_element(By.ID, "langSelect-EN").click()
 button = driver.find_element(By.ID,"bigCookie")
 while z:
     button.click()
-
-
-
-# SKIP FOR NOWWWWWW
